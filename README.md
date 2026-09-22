@@ -1,4 +1,4 @@
-<img src="hero/andi-daniel-profile-card (1).svg" alt="Andi Daniel Tenri Dio Profile" width="100%" />
+<img src="hero/andi-daniel-profile-card (1).svg?v=2" alt="Andi Daniel Tenri Dio Profile" width="100%" />
 
 # >_ Hi, I'm Daniel
 
