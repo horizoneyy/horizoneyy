@@ -2,7 +2,7 @@
 
 # >_ Hi, I'm Daniel
 
-> Full Stack Developer based in Manado, Indonesia. I work with HTML, CSS, JavaScript, TypeScript, PHP, and Python, building applications with React.js, Next.js, and Laravel. I rely on VS Code and GitHub as part of my workflow.
+> Full Stack Developer based in Manado, Indonesia. I work with JavaScript, TypeScript, PHP, and Python, building applications with React.js, Next.js, and Laravel. I rely on VS Code and GitHub as part of my workflow.
 
 ### [ CODE TO REALITY ]
 
